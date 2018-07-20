@@ -1,0 +1,40 @@
+body{
+    color: aliceblue;
+    text-shadow: 1px 1px 1px #000000;
+    font-size: 30px;
+    text-align: center;
+}
+.container{
+    padding-top: 3%;
+    height: 600px;
+   
+}
+.imgAnni{
+    background: url(https://i.imgur.com/0zJ1Z73.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+h1{
+    clear: both;
+    margin-top: -5%;
+}
+
+strong{
+  margin: 30px;
+}
+
+.btn-primary{
+    margin-bottom: -60%;
+}
+
+.smiley{
+    font-size: 60px;
+    opacity: 0;
+   
+}
+
+.choix{
+    opacity: 0;
+}
